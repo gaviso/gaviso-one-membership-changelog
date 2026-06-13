@@ -1,0 +1,8 @@
+addr: 0.0.0.0:6001
+local:
+  filesPath: /release-notes
+page:
+  title: Changelog
+  subtitle: The latest product updates and improvements
+  colorScheme: light
+  hidePoweredBy: false
