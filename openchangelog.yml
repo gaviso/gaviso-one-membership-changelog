@@ -6,7 +6,7 @@ cache:
 page:
   title: Gaviso One Membership
   subtitle: The latest updates and improvements
-  colorScheme: system
+  colorScheme: light
   hidePoweredBy: true
   logo:
     src: https://cdn.jsdelivr.net/gh/gaviso/changelog@main/assets/gaviso-one-logo.png
