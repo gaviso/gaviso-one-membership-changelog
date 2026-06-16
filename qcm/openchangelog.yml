@@ -5,7 +5,7 @@ cache:
   type: memory
 page:
   title: Gaviso QCM
-  subtitle: Quote → contract → renewal — what's new
+  subtitle: Product updates for the Gaviso QCM plugin — what's new in every release.
   colorScheme: light
   hidePoweredBy: true
   logo:
