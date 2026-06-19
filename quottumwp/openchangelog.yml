@@ -4,7 +4,7 @@ local:
 cache:
   type: memory
 page:
-  title: Quottum for WordPress
+  title: Quottum
   subtitle: Plugin updates and release notes
   colorScheme: light
   hidePoweredBy: true
