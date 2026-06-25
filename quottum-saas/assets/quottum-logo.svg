@@ -1,0 +1,6 @@
+<svg viewBox="0 0 300 96" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Quottum">
+  <g transform="translate(8,18) scale(0.3261)" fill="#3ecf8e" fill-rule="evenodd">
+    <path d="M6.5 7 L41 6.5 L57 8.5 L88 16.5 L109.5 27 L103 31.5 L87.5 47 L80.5 57 L73 73.5 L60.5 57 L50 46.5 L48.5 47 L61.5 67 L70.5 87 L69.5 102 L72 123.5 L52.5 101 L39.5 80 L23.5 48 L6.5 8 ZM192.5 8 L221 7.5 L224.5 9 L207.5 48 L189.5 84 L177.5 103 L165.5 118 L150 131.5 L132 140.5 L124 142.5 L103 142.5 L93 139.5 L85.5 152 L77.5 175 L76 176.5 L73 176.5 L69.5 171 L71.5 160 L82.5 136 L94.5 117 L111.5 96 L132 75.5 L164.5 49 L163 48.5 L153 54.5 L123 76.5 L101.5 98 L81 126.5 L78.5 120 L76.5 105 L78.5 81 L81.5 71 L91.5 53 L103 40.5 L118 29.5 L138 19.5 L156 13.5 L175 9.5 L192 8.5 Z"></path>
+  </g>
+  <text x="92" y="63" font-family="ui-sans-serif,system-ui,-apple-system,&#39;Segoe UI&#39;,Helvetica,Arial,sans-serif" font-weight="700" font-size="46" letter-spacing="-1.5" fill="currentColor">Quottum</text>
+</svg>

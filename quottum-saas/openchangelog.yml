@@ -1,0 +1,16 @@
+addr: 0.0.0.0:6001
+local:
+  filesPath: /release-notes
+cache:
+  type: memory
+page:
+  title: Quottum
+  subtitle: Quottum SaaS — product updates and release notes
+  colorScheme: light
+  hidePoweredBy: true
+  logo:
+    src: https://cdn.jsdelivr.net/gh/gaviso/openchangelog@main/quottum-saas/assets/quottum-logo.svg
+    width: 125px
+    height: 40px
+    link: https://app.quottum.io
+    alt: Quottum
